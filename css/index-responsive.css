@@ -1,0 +1,318 @@
+@media (max-width: 1240px){
+    .container-inf .inf .cards {
+        grid-gap: 20px;
+    }
+}
+@media (max-width: 1081px){
+    .container-banner .banner{
+        width: 90%
+    }    
+}
+@media (max-width: 1020px){
+    .container-banner .banner{
+        width: 95%
+    }    
+    .container-banner .banner .container-img {
+        width: 440px;
+    }
+}
+@media (max-width: 967px) {
+    .container-banner .banner .container-banner-inf h2 {
+        font-size: 46px;
+    }
+}
+@media (max-width: 896px){
+    .container-banner{
+        height: 700px;
+    }
+    .container-inf{
+        margin-top: 30px;
+    }
+    .container-banner .banner .container-banner-inf p {
+        font-size: 16px;
+    }
+    .container-banner .banner .container-banner-inf h2 {
+        margin-right: 44px;
+        font-size: 40px;
+    }
+    .container-banner .banner .container-banner-inf {
+        width: 45%;
+        margin-right: 0px;
+    }
+    .container-banner .banner .container-img {
+        width: 375px;
+        height: 451px;
+    }
+    .container-banner .banner .container-img img{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media (max-width: 822px){ 
+    .container-banner {
+        height: 600px;
+    }
+    .container-banner .banner {
+        width: 100%;
+        padding-top: 60px;
+    }
+    .container-banner .banner .container-banner-inf {
+        width: 40%;
+    }
+    .container-banner .banner .container-banner-inf h2 {
+        margin-right: 0px; 
+    }
+.container-banner .banner .container-img {
+    width: 350px;
+    height: 430px;
+}
+}
+@media (max-width: 768px){
+
+    .container-banner .banner .container-banner-inf h2 {
+        font-size: 37px;
+    }
+}
+@media (max-width: 740px){
+    .header {
+        width: 100%;
+        justify-content: center;
+    }
+    .header img {
+        margin-right: 25px;
+    }
+    .header nav {
+        width: 70%;
+        justify-content: space-between;
+    }
+    .header nav a {
+    margin-left: 0px; 
+    font-size: 14px;
+    }
+    .header .button {
+        width: 110px;
+        height: 33px;
+
+    }
+}
+@media (max-width: 716px){
+        .container-banner {
+        height: 560px;
+    }
+    .container-banner .intro-left {
+        width: 145px;
+    }
+    .container-banner .banner .container-img {
+        width: 300px;
+        height: 400px;
+    }
+    .container-banner .banner .container-banner-inf h2 {
+        font-size: 34px;
+    }
+    .container-banner .banner .container-banner-inf p {
+        font-size: 15px;
+    }
+    .container-banner .banner .container-banner-inf .button {
+        width: 106px;
+        height: 35px;
+    }
+    .container-inf .line-inf {
+        margin-bottom: 15px;
+    }
+}
+@media (max-width: 670px){
+
+    .header nav {
+        width: 65%;
+    }
+    .container-banner {
+        height: 500px;
+    }
+    .container-banner .intro-left {
+        width: 118px;
+    }
+    .container-banner .banner {
+        padding-top: 55px;
+    }
+    .container-banner .banner .container-img {
+        width: 265px;
+        height: 341px
+    }
+
+    .container-banner .banner .container-banner-inf h2 {
+        margin-top: 25px;
+        margin-right: 10px;
+        font-size: 30px;
+    }
+    .container-banner .banner .container-banner-inf .button {
+        margin-top: 20px;
+    }
+    .container-inf .inf .more-inf .more-inf-inf {
+        width: 285px;
+        font-size: 32px;
+    }
+}
+@media (max-width: 620px){
+    .header nav {
+        width: 69%;
+    }
+    .container-banner .banner .container-banner-inf h2 {
+        margin-right: 0px;
+    }
+    .container-inf .inf .cards {
+        grid-gap: 9px;
+    }
+    .footer-wrap .footer-contact .footer-card-list li a {
+        font-size: 15px;
+    }
+}
+@media (max-width: 594px){
+    .container-banner .banner .container-banner-inf h2 {
+        font-size: 28px;
+    }
+}
+@media (max-width: 560px){
+    .header img {
+        width: 125px;
+        height: 25px;
+    }
+    .container-banner {
+        height: 450px;
+    }
+    .container-banner .banner {
+        padding-top: 50px;
+        justify-content: center;
+    }
+    .container-banner .banner .container-banner-inf {
+        width: 42%;
+    }
+    .container-banner .banner .container-banner-inf h2 {
+        margin-top: 10px;
+        font-size: 27px;
+    }
+    .container-banner .banner .container-banner-inf p {
+        font-size: 14px;
+    }
+    .container-banner .banner .container-banner-inf .button {
+        margin-top: 13px;
+        width: 95px;
+        height: 31px;
+        font-size: 14px;
+    }
+    .container-banner .intro-left {
+        width: 110px;
+        top: 250px;
+
+    }
+    .container-banner .banner .container-img {
+        width: 220px;
+        height: 301px;
+        margin-left: 18px;
+    }
+    .container-inf .inf {
+        width: 85%;
+    }
+    .container-inf .inf .inf-title {
+        font-size: 36px;
+    }
+    .container-inf .inf .more-inf .more-inf-inf {
+        width: 254px;
+        font-size: 29px;
+    }
+    .container-inf .inf .more-inf .button {
+        border: 2px solid #fff;
+        width: 120px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 517px){
+    .container-banner .banner .container-banner-inf {
+        width: 45%;
+    }
+    .container-banner .banner .container-img {
+    width: 200px;
+    height: 279px;
+    margin-left: 18px;
+    }
+    .footer-wrap .footer-contact .footer-card-title {
+    font-size: 15px;
+
+    }
+    .footer-wrap .footer-contact .footer-card-list li a {
+    font-size: 14px;
+    }
+}
+@media (max-width: 483px){
+    .header {
+        width: 97%;
+        justify-content: center;
+    }
+    .header nav {
+        width: 72%;
+    }
+    
+    .header img {
+        width: 110px;
+        height: 21px;
+        margin-right: 20px;
+    } 
+    .header .button {
+        width: 92px;
+        height: 28px;
+    }
+    .container-banner {
+        height: 420px;
+    }
+    .container-banner .intro-left {
+        width: 95px;
+        top: 250px;
+    }   
+    .container-banner .banner .container-banner-inf h2 {
+        margin-top: 10px;
+        font-size: 23px;
+        margin-right: 13px;
+    }
+    .container-inf .inf .cards .card .card-title {
+        font-size: 17px;
+    }
+    
+    .container-inf .inf .cards .card .card-inf {
+    font-size: 15px;
+    }
+    .container-inf .inf .cards .card img {
+        width: 78px;
+        height: 78px;
+    }
+    .container-inf .inf .inf-title {
+        margin-bottom: 0px;
+    }
+    .container-inf .inf {
+        width: 90%;
+    }
+    .more-inf .more-inf-inf {
+        width: 250px;
+        font-size: 28px;
+    }
+    .container-inf .inf .more-inf {
+
+        padding: 0px;
+    }
+}
+@media (max-width: 456px){
+    .header nav a {
+        margin-left: 0px;
+        font-size: 13px;
+    }
+    .container-banner {
+        height: 400px;
+    }
+    .container-banner .banner {
+        padding-top: 33px;
+    }
+    .container-banner .intro-left {
+        top: 205px;
+    }
+    .container-banner .banner .container-img {
+        margin-left: 8px;
+    }
+}
