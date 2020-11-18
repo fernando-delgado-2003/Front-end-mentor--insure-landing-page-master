@@ -242,6 +242,7 @@ body{
 }
 .container-inf .inf .more-inf .button{
     border: 2px solid #fff;
+    z-index: 10px;
 }
 .container-inf .inf .more-inf .button:hover{
     color:hsl(256, 26%, 20%);
